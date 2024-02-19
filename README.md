@@ -3,12 +3,12 @@
 
  Desenvolvendo as seguintes conceitos:
 
-   1. Valores relativos;
-   2. Definindo tamanho de elementos;
-   3. Overflow;
-   4. Exibindo e ocultando elementos;
-   5. Box-sizing;
-   6. Box-Shadow;
+   * Valores relativos;
+   * Definindo tamanho de elementos;
+   * Overflow;
+   * Exibindo e ocultando elementos;
+   * Box-sizing;
+   * Box-Shadow;
 
  1. "Superman & Lois": Página de dilvulgação de uma filme/seriado. 
 
