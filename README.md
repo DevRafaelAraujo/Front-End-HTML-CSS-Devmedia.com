@@ -1,7 +1,7 @@
 # Front-End-HTML-CSS-Devmedia.com
  Páginas web HTML e CSS: aplicando conceitos aprendidos no curso de Front-End "DevMedia.com"
 
- Desenvolvendo as seguintes conceitos:
+ Desenvolvendo os seguintes conceitos:
 
    * Valores relativos;
    * Definindo tamanho de elementos;
