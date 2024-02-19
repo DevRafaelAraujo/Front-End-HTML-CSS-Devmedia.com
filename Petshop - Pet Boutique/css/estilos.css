@@ -1,0 +1,37 @@
+/* Reset Css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+/* Seção Banner*/
+.secao-banner {
+    width: 100%;
+    padding: 120px 80px;
+    background: url('../img/banner-topo.jpg') center;
+    background-size: cover;
+}
+
+.logo-marca {
+    max-width: 250px;
+    color: #3c184e;
+}
+
+.paragrafo-logo {
+    font-size: 35px;
+    margin-bottom: 5px;
+}
+
+.paragrafo-logo img {
+    width: 30px;
+    margin-right: 5px;
+}
+
+.paragrafo-logo-texto {
+    font-size: 14px;
+    text-align: center;
+}
+
